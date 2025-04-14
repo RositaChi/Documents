@@ -35,7 +35,7 @@ This report summarizes the findings from the user survey conducted to understand
 - **55-64:** 0%
 - **65 and above:** 0%
 
-![[Age Range Distribution Chart](https://github.com/RositaChi/Documents/commit/6c5fbf4fd5d2d5d2aa6e896e0610410ee812b2ca#diff-a025cfd7c3e99f3db75024eefe46868c79cdfa7bc04dba033487653110267b5f)] Age_range
+![Age Range Distribution Chart](Age Range.png) Age_range
 
 #### Income Range
 - **Under 41,875 FCFA:** 40%
